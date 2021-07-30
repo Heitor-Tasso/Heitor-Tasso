@@ -2,8 +2,11 @@
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SrGambiarra-rg&repo=SrGambiarra-rg&countColorcountColor)
 
-  <img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api?username=SrGambiarra-rg&show_icons=true&theme=midnight-purple"/>
-  <img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrGambiarra-rg&layout=compact&hide=shell&theme=midnight-purple"/>
+ <div>
+  <a href="https://github.com/SrGambiarra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrGambiarra&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrGambiarra&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
