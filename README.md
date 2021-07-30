@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrGambiarra&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrGambiarra&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-
+<h2>LINGUAGENS:</h2>
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
   <img align="right" alt="Macacs" src="https://cdn.discordapp.com/attachments/799471348492795914/870678257589170276/MacacoGIF.gif">
