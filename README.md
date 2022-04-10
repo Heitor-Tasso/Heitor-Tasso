@@ -13,7 +13,6 @@
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  <img height="160em" src="https://cdn.discordapp.com/attachments/799471348492795914/870678257589170276/MacacoGIF.gif"/>
   
 ## DESENVOLVIMENTO:
   ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
@@ -29,5 +28,5 @@
  <a href="https://discord.gg/98v7vXxQkA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/SrGambiarra/SrGambiarra/blob/output/github-contribution-grid-snake.svg)
- 
+ <img height="160em" src="https://cdn.discordapp.com/attachments/799471348492795914/870678257589170276/MacacoGIF.gif"/>
 </div>
