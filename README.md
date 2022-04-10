@@ -1,12 +1,11 @@
 ## Olá, me chamo Heitor... 
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SrGambiarra-rg&repo=SrGambiarra-rg&countColorcountColor)
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
  <div>
   <a href="https://github.com/SrGambiarra">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SrGambiarra&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
- 	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 <div>
   <h2>LINGUAGENS:</h2>
   <img align="center" alt="Python" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
