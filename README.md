@@ -29,4 +29,5 @@
 
 ![Snake animation](https://github.com/SrGambiarra/SrGambiarra/blob/output/github-contribution-grid-snake.svg)
  <img height="160em" src="https://cdn.discordapp.com/attachments/799471348492795914/870678257589170276/MacacoGIF.gif"/>
+  <img height="160em" src="https://discord.com/channels/731146401332985886/799471348492795914/938880052513341462"/>
 </div>
