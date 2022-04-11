@@ -5,6 +5,8 @@
 <div>
   <a href="https://github.com/SrGambiarra">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SrGambiarra&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://cdn.discordapp.com/attachments/799471348492795914/870678257589170276/MacacoGIF.gif"/>
+  <img height="160em" src="https://media.discordapp.net/attachments/799471348492795914/938880051259252736/thirsty-hangover.gif?width=413&height=413"/>
 </div>
 
 ## LINGUAGENS:
@@ -28,6 +30,4 @@
  <a href="https://discord.gg/98v7vXxQkA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/SrGambiarra/SrGambiarra/blob/output/github-contribution-grid-snake.svg)
- <img height="160em" src="https://cdn.discordapp.com/attachments/799471348492795914/870678257589170276/MacacoGIF.gif"/>
-  <img height="160em" src="https://media.discordapp.net/attachments/799471348492795914/938880051259252736/thirsty-hangover.gif?width=413&height=413"/>
 </div>
