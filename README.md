@@ -1,10 +1,10 @@
 ## Olá, me chamo Heitor... 
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SrGambiarra-rg&repo=SrGambiarra-rg&countColorcountColor)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SrGambiarra-rg&repo=Heitor-Tasso-rg&countColorcountColor)
 
 <div>
-  <a href="https://github.com/SrGambiarra">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SrGambiarra&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Heitor-Tasso">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Heitor-Tasso&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://cdn.discordapp.com/attachments/799471348492795914/870678257589170276/MacacoGIF.gif"/>
   <img height="160em" src="https://media.discordapp.net/attachments/799471348492795914/938880051259252736/thirsty-hangover.gif?width=413&height=413"/>
 </div>
