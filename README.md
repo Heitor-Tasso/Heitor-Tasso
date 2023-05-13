@@ -1,7 +1,5 @@
 ## Olá, me chamo Heitor... 
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SrGambiarra-rg&repo=Heitor-Tasso-rg&countColorcountColor)
-
 <div>
   <a href="https://github.com/Heitor-Tasso">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Heitor-Tasso&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
